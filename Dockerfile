@@ -1,3 +1,3 @@
-从gcr.io/google-samples/kubernetes-bootcamp:v1
-阿根廷GOARCH=adm64
-维护者希茨尔·<hhitzhl@gmail.com >
+ARG GOARCH=adm64
+FROM gcr.io/google-samples/kubernetes-bootcamp:v1
+
